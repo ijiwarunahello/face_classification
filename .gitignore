@@ -1,0 +1,10 @@
+*.pt
+data/
+face_data/
+her_name_is/
+test_data/
+train_data/
+who_is_this_member/
+.DS_Store
+.vscode/
+__pycache__/
